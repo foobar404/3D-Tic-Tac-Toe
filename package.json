@@ -2,7 +2,7 @@
   "name": "3d-tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://foobar404.github.io/3D-Tic-Tac-Toe/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
