@@ -1,1 +1,1 @@
-[View live website](foobar404.github.io/3d-tic-tac-toe/)
+[View live website](https://foobar404.github.io/3D-Tic-Tac-Toe/)
